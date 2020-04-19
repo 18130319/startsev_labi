@@ -1,1 +1,1 @@
-# startsev_labi
+# startsev_laboratornie
